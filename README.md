@@ -1,6 +1,6 @@
 # Python Packages
 Hello everyone, here are all the python packages I have made
-- Chatbotcreation
+- createChatbot
 - MediaPipeTools
 - LinkToExe
 - pyweatherreport
