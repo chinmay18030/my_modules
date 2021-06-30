@@ -5,3 +5,4 @@ Hello everyone, here are all the python packages I have made
 - LinkToExe
 - pyweatherreport
 - githubRawExtractor
+- aivision
